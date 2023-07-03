@@ -1,4 +1,4 @@
-# your_journal
+## Your Journal
 
 A new Flutter project.
 
